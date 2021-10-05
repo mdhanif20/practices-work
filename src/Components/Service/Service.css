@@ -1,0 +1,10 @@
+/* service cart area css  */
+#service-area{
+    padding: 4% 4%;
+}
+/* service details */
+p#course-description {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

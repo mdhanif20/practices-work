@@ -1,0 +1,10 @@
+/* footer all color set  */
+#footer-details{
+    color: hsl(60, 1%, 70%);
+}
+/* our course area css  */
+ul#course {
+    text-align: start;
+    margin: auto;
+    padding: 10px 0px 0px 90px;
+}

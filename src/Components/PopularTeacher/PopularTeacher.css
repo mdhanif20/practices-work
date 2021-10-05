@@ -1,0 +1,12 @@
+/* popular teacher area data  */
+#teacher-area{
+    padding: 30px 80px 10px 80px;
+}
+#popular-teacher{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 30px;
+}
+#popular-teacher div img{
+    width: 100%;
+}

@@ -1,0 +1,98 @@
+[
+    {
+      "rank": 1,
+      "language": "Chainese",
+      "price": 900,
+      "totalLession": 95,
+      "totalRetting": 5,
+      "totalStudent": 1590,
+      "details": "  Mandarin is by far the largest of the seven or ten Chinese dialect groups, spoken by 70 percent of all Chinese speakers over a large geographical area, stretching from Yunnan in the southwest to Xinjiang in the northwest and Heilongjiang in the northeast. This is generally attributed to the greater ease of travel and communication in the North China Plain compared to the more mountainous south, combined with the relatively recent spread of Mandarin to frontier areas.",
+      "serviceImg": "https://image.freepik.com/free-photo/guy-lesson_1098-14193.jpg",
+      "tutor": "Saddam Hossain",
+      "tutorImg": "https://image.freepik.com/free-photo/close-up-man-using-his-mobile-phhone-while-walking-outdoors-street_58466-1629822.jpg"
+    },
+    {
+      "rank": 2,
+      "language": "Spanish",
+      "price": 750,
+      "totalLession": 79,
+      "totalRetting": 4.9,
+      "totalStudent": 251,
+      "details": "Spanish is a part of the Ibero-Romance group of languages of the Indo-European language family, which evolved from several dialects of Vulgar Latin in Iberia after the collapse of the Western Roman Empire in the 5th century. The oldest Latin texts with traces of Spanish come from mid-northern Iberia in the 9th century, and the first systematic written use of the language happened in Toledo, a prominent city of the Kingdom of Castile, in the 13th century. Modern Spanish was then taken to the viceroyalties of the Spanish Empire beginning in 1492, most notably to the Americas, as well as territories in Africa and the Philippines.",
+      "serviceImg": "https://image.freepik.com/free-photo/student-sharing-her-knowledge-with-her-colleagues_329181-8498.jpg",
+      "tutor": "Sara Islam",
+      "tutorImg": "https://image.freepik.com/free-photo/portrait-concentrated-serhggious-sportsman_17138937-7771.jpg"
+    },
+    {
+      "rank": 3,
+      "language": "English",
+      "price": 400,
+      "totalLession": 84,
+      "totalRetting": 4.7,
+      "totalStudent": 2090,
+      "details": "English has developed over the course of more than 1,400 years. The earliest forms of English, a group of West Germanic (Ingvaeonic) dialects brought to Great Britain by Anglo-Saxon settlers in the 5th century, are collectively called Old English. Middle English began in the late 11th century with the Norman conquest of England; this was a period in which English was influenced by Old French, in particular through its Old Norman dialect. Early Modern English began in the late 15th century with the introduction of the printing press to London, the printing of the King James Bible and the start of the Great Vowel Shift.",
+      "serviceImg": "https://image.freetpik.com/free-photo/teamwork-teacher-s-laptop_32439181-14251.jpg",
+      "tutor": "Sipon Sorkar",
+      "tutorImg": "https://image.frfvdeepik.com/free-photo/mand-holding-cup_1258-30960940.jpg"
+    },
+    {
+      "rank": 4,
+      "language": "Hindi",
+      "price": 200,
+      "totalLession": 43,
+      "totalRetting": 4.9,
+      "totalStudent": 190,
+      "details": "Hindi is the lingua franca of the Hindi belt and to a lesser extent other parts of India (usually in a simplified or pidginised variety such as Bazaar Hindustani or Haflong Hindi).[14][19] Outside India, several other languages are recognised officially as Hindi but do not refer to the Standard Hindi language described here and instead descend from other dialects, such as Awadhi and Bhojpuri. Such languages include Fiji Hindi, which is official in Fiji,and Caribbean Hindustani, which is spoken in Trinidad and Tobago, Guyana, and Suriname.Apart from the script and formal vocabulary, standard Hindi is mutually intelligible with standard Urdu, another recognised register of Hindustani as both share a common colloquial base.",
+      "serviceImg": "https://image.freepgttik.com/free-photo/multi-ethnic-group-young-people-studying-together-white-de_1133439-987.jpg",
+      "tutor": "Minhaz Chowdury",
+      "tutorImg": "https://image.freepik.com/free-photo/portrait-young-man-pointuyiing-up-black-t-shirt-looking-confident-front-view_176474-64739084.jpg"
+    },
+    {
+      "rank": 5,
+      "language": "Japanese",
+      "price": 770,
+      "totalLession": 63,
+      "totalRetting": 4.5,
+      "totalStudent": 1098,
+      "details": "Little is known of the language's prehistory, or when it first appeared in Japan. Chinese documents from the 3rd century AD recorded a few Japanese words, but substantial texts did not appear until the 8th century. During the Heian period (794–1185) in Japan, the Chinese language had considerable influence on the vocabulary and phonology of Old Japanese. Late Middle Japanese (1185–1600) included changes in features that brought it closer to the modern language, and the first appearance of European loanwords. The standard dialect moved from the Kansai region in the south, up to the Edo region (modern Tokyo) in the Early Modern Japanese period (early 17th century–mid 19th century). Following the end of Japan's self-imposed isolation in 1853, the flow of loanwords from European languages increased significantly. English loanwords, in particular, have become frequent, and Japanese words from English roots have proliferated",
+      "serviceImg": "https://image.frhbgeepik.com/free-photo/discussing-video-course_1098-1309061.jpg",
+      "tutor": "Nasir Uddin",
+      "tutorImg": "https://image.freyutepik.com/free-photo/elegant-man-with-folded-arms_1265662-727.jpg"
+    },
+    {
+      "rank": 6,
+      "language": "Turkish",
+      "price": 680,
+      "totalLession": 85,
+      "totalRetting": 4.7,
+      "totalStudent": 2708,
+      "details": "To the west, the influence of Ottoman Turkish—the variety of the Turkish language that was used as the administrative and literary language of the Ottoman Empire—spread as the Ottoman Empire expanded. In 1928, as one of Atatürk's Reforms in the early years of the Republic of Turkey, the Ottoman Turkish alphabet was replaced with a Latin alphabet.The distinctive characteristics of the Turkish language are vowel harmony and extensive agglutination. The basic word order of Turkish is subject–object–verb. Turkish has no noun classes or grammatical gender. The language makes usage of honorifics and has a strong T–V distinction which distinguishes varying levels of politeness, social distance, age, courtesy or familiarity toward the addressee. The plural second-person pronoun and verb forms are used referring to a single person out of respect.",
+      "serviceImg": "https://image.freepik.com/free-photo/young-students-classroom_329181-13017.jpg",
+      "tutor": "Osman Bin Ertagrul",
+      "tutorImg": "https://image.freepik.com/free-photo/cheerful-indian-busineserwsman-smiling-closeup-portrait-jobs-career-campaign_53876-12941907.jpg"
+    },
+    {
+      "rank": 7,
+      "language": "French",
+      "price": 590,
+      "totalLession": 73,
+      "totalRetting": 4.5,
+      "totalStudent": 1403,
+      "details": "French is an official language in 29 countries across multiple continents,most of which are members of the Organisation internationale de la Francophonie (OIF), the community of 84 countries which share the official use or teaching of French. French is also one of six official languages used in the United Nations.It is spoken as a first language (in descending order of the number of speakers) in France; the Democratic Republic of Congo; Algeria; Morocco; Canada (provinces of Quebec, Ontario and New Brunswick as well as other Francophone regions); Cameroon; Belgium (Wallonia and the Brussels-Capital Region); Ivory Coast; Tunisia; western Switzerland (Romandy—all or part of the cantons of Bern, Fribourg, Geneva, Jura, Neuchâtel, Vaud, Valais); Monaco; parts of Luxembourg; parts of the United States (the states of Louisiana, Maine, New Hampshire and Vermont); northwestern Italy (autonomous region of Aosta Valley); and various communities elsewhere.",
+      "serviceImg": "https://image.freyuepik.com/free-photo/classmates-studying-together-library_32967181-19495.jpg",
+      "tutor": "Nazim Uddin",
+      "tutorImg": "https://image.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg"
+    },
+    {
+      "rank": 8,
+      "language": "Italian",
+      "price": 490,
+      "totalLession": 55,
+      "totalRetting": 3.9,
+      "totalStudent": 122,
+      "details": "It formerly had official status in Albania, Malta, Monaco, Montenegro (Kotor), Greece (Ionian Islands and Dodecanese), and is generally understood in Corsica by Corsican speakers (many linguists classify Corsican as an Italian dialect). It used to be an official language in the former colonial areas of Italian East Africa and Italian North Africa, where it still has a significant role in various sectors.Italian is also spoken by large immigrant and expatriate communities in the Americas and Australia.[7] Italian is included under the languages covered by the European Charter for Regional or Minority languages in Bosnia and Herzegovina and in Romania, although Italian is neither a co-official nor a protected language in these countries.[8][9] Many speakers of Italian are native bilinguals of both Italian (either in its standard form or regional varieties) and another regional language of Italy.",
+      "serviceImg": "https://image.freepik.com/free-photo/serious-students-using-tablet-discussing-information_1262-15173.jpg",
+      "tutor": "Nasim Uddin",
+      "tutorImg": "https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_27360978-16320.jpg"
+    }
+  ]
